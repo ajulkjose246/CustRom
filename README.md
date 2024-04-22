@@ -5,6 +5,7 @@ CustRom is an innovative web platform designed to serve as a centralized reposit
 # CustRom: Screenshots
 
 ![Screen Shot](https://firebasestorage.googleapis.com/v0/b/github-files-akj.appspot.com/o/Imgaes%2FCustRom%2FScreenshot%202024-04-22%20094816.png?alt=media&token=0fb7d443-b4c5-4030-b039-cc556c8449fb)
+![Screen Shot](https://firebasestorage.googleapis.com/v0/b/github-files-akj.appspot.com/o/Imgaes%2FCustRom%2FScreenshot%202024-04-22%20100100.png?alt=media&token=f73005cc-e7cf-4a09-9df4-09887bdca77d)
 
 ## Key Features
 
